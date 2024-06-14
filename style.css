@@ -26,5 +26,26 @@ body {
 }
 
 .tank{
-    background-color: rgb(232, 40, 190);
+    background: url(./icons8-танк-50.png);
+    background-color: rgb(102, 107, 112);
+}
+
+.up {
+    transform: rotate(0deg);
+}
+
+.right {
+    transform: rotate(90deg);
+}
+
+.down {
+    transform: rotate(180deg);
+}
+
+.left {
+    transform: rotate(270deg);
+}
+
+.pount{
+    background: url(./IMG/icons8-точка-30.png);
 }
