@@ -1,6 +1,5 @@
 The tank can run on the field!
 
-Press W, A, S, D!
-
+Click the arrows!
 
 https://yehorheiko.github.io/tanks-poc/
